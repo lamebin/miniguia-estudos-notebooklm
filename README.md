@@ -1,2 +1,4 @@
 # miniguia-estudos-notebooklm
-Accenture &amp; DIO: Project I
+# Accenture + DIO: Project I
+## O Guia Financeiro das Mulheres para Mulheres
+
