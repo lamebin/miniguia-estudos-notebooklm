@@ -1,6 +1,6 @@
 # miniguia-estudos-notebooklm
 # Accenture + DIO: Project I
-## O Guia Financeiro das Mulheres para Mulheres
+## O Guia Financeiro das Mulheres para Mulheres (https://notebooklm.google.com/notebook/63b5b0b7-45c9-43b3-ba38-e0038dd575b3)
 
 
 ## Contexto e Objetivos
